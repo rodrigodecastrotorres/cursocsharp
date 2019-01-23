@@ -32,6 +32,8 @@ namespace LerArquivo
             }
 
             // Keep the console window open in debug mode.
+
+            Console.WriteLine("Bom dia");
             Console.WriteLine("Press any key to exit.");
             System.Console.ReadKey();
         }
